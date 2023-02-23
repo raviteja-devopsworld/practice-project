@@ -1,0 +1,500 @@
+   13  git status
+   14  git config --global user.name "raviteja"
+   15  git config --global user.email "raviteja@gmail.com"
+   16  git commit -m "this is my first commit"
+   17  git status
+   18  git log
+   19  git status
+   20  echo "first">> readme.txt
+   21  echo "welcome to git">> src/main.py
+   22  git status
+   23  git add src/main.py
+   24  git status
+   25  git add .
+   26  ls
+   27  git status
+   28  git commit -m "this is my first commit"
+   29  git status
+   30  git add src/main.py
+   31  git add .
+   32  git status
+   33  git log
+   34  git status
+   35  mkdir learning
+   36  clear
+   37  mkdir learning
+   38  ls
+   39  git status
+   40  cd learning
+   41  git init
+   42  touch readme.txt
+   43  git status
+   44  git add --help
+   45  git add .
+   46  git status
+   47  git config --global user.name "raviteja"
+   48  git config --global user.email "raviteja@gmail.com"
+   49  git commit -m "this is my first commit"
+   50  git log
+   51  git status
+   52  git add src/main.py
+   53  touch src/main.py
+   54  git status\
+   55  git status
+   56  git add src/main.py
+   57  git add .src/main.py
+   58  echo "welcome to git">>src/main.py
+   59  echo "welcome to git">> src/main.py
+   60  touch src/main.py
+   61  ls
+   62  touch src/main.py
+   63  ls
+   64  touch src/main.py
+   65  touch text
+   66  ls
+   67  git init
+   68  git add . readme.txt text
+   69  git status
+   70  git add . readme.txt
+   71  git status
+   72  git commit -m "this is second commit" text
+   73  git status
+   74  git log
+   75  git log --online
+   76  git log --oneline
+   77  mkdir test
+   78  git status
+   79  echo "first" >> test/test.py
+   80  git status
+   81  git add test/
+   82  git status
+   83  git commit -m "this is third commit"
+   84  git add --all
+   85  git add -u
+   86  git add --help
+   87  git status
+   88  git add --u
+   89  git status
+   90  git add text
+   91  git status
+   92  git init
+   93  touch dishaa{1..4}
+   94  ls
+   95  git status
+   96  git add .
+   97  git status
+   98  git restore --staged .New Text Document.txt
+   99  git restore--staged .New Text Document.txt
+  100  git status
+  101  git restore --staged .desktop.ini
+  102  git restore --staged .
+  103  git restore --staged.
+  104  git status
+  105  git restore --staged
+  106  git restore --staged .
+  107  git status
+  108  git add dishaa*
+  109  git status
+  110  git add dishaa*
+  111  ls
+  112  git status
+  113  git commit -m "disha commits" dishaa*
+  114  ll
+  115  mkdir learning
+  116  ls
+  117  cd learning
+  118  git init
+  119  touch readme.txt
+  120  git status
+  121  git add --help
+  122  git add .
+  123  git status
+  124  git config --global user.name "raviteja"
+  125  git config --global user.email "raviteja@gmail.com"
+  126  git status
+  127  git commit -m "this is first commit"
+  128  git status
+  129  git status
+  130  git add .
+  131  git commit -m "fixed"
+  132  git status
+  133  ls
+  134  cd learning
+  135  ls
+  136  git status
+  137  git log --oneline
+  138  touch document.txt
+  139  git status
+  140  git clean -fd .
+  141  ls
+  142  git status
+  143  git log --oneline
+  144  git checkout a043247
+  145   git switch -
+  146  ls -la
+  147  cd .git/
+  148  ls
+  149  cat -n config
+  150  cd ..
+  151  git log --oneliner
+  152  git log --oneline
+  153  git checkout master
+  154  git log --onleine
+  155  touch src
+  156  ls
+  157  git add .
+  158  git status
+  159  git commit -m "this is second commit"
+  160  git status
+  161  git log --online
+  162  git log
+  163  git log --online
+  164  git checkout master
+  165  git log --online
+  166  git log --oneline
+  167   git remote --help
+  168  exit
+  169  cd learning
+  170  ls
+  171  exit
+  172  cd leaning
+  173  cd learning/
+  174  ls
+  175  git status
+  176  mkdir test
+  177  ls
+  178  git status
+  179  echo "hello" >>test/test.py
+  180  git status
+  181  git add test/
+  182  git status
+  183  git commit -m "thirde commit"
+  184  git add --all
+  185  git add -u
+  186  git status
+  187  git add --help
+  188  git status
+  189  git add src/
+  190  git statusg
+  191  git status
+  192  git add src
+  193  git status
+  194  git add test/test.py
+  195  git status
+  196  ls
+  197  git log
+  198  git log --online
+  199  git log --oneline
+  200  git checkout a043247
+  201  ls
+  202  git checkout master
+  203  ls
+  204  git status
+  205  git checkout -- readme.txt
+  206  git status
+  207  ls
+  208  git reset readme.txt
+  209  git status
+  210  git reset --hard
+  211  git status
+  212  rm readme.txt
+  213  git status
+  214  git add readme.txt
+  215  git status
+  216  git log
+  217  git log --oneline
+  218  git clean --help]
+  219  git clean
+  220  cat >>src
+  221  git status
+  222  git add src
+  223  git status
+  224  git log
+  225  cat src
+  226  cat -n src
+  227   ls
+  228  history
+  229  exit
+  230  cd working/
+  231  git --version
+  232  git status
+  233  git init
+  234  git status
+  235  ls
+  236  cat >mango
+  237  mkdir src
+  238  mkdir dist
+  239  git status\
+  240  git status
+  241  ls
+  242  touch src/main.py
+  243  touch dist/pom.xml
+  244  git status
+  245  git add .
+  246  git status
+  247  git commit -m "this is python project"
+  248  git status
+  249  git config -- global user.name "raviteja"
+  250  git config --global user.name "raviteja"
+  251  git config --global user.email "raviteja@gmail.com"
+  252  git status
+  253  git remote add origin https://github.com/raviteja-devopsworld/project1.git
+  254  git branch
+  255  git push -u origin master
+  256  ls
+  257  ls -la
+  258  git branch
+  259  git log --oneline
+  260  git remote --help
+  261  git remote
+  262  git status
+  263  ls
+  264  cat >>mango
+  265  git status
+  266  git add .
+  267  git commit -m "second commit"
+  268  git status
+  269  ls
+  270  touch apple
+  271  git status
+  272  git add .
+  273  git commit -m "third commit"
+  274  git status
+  275  ls
+  276  git push
+  277  ls
+  278  touch green
+  279  git status
+  280  git add .
+  281  git commit -m "fixed"
+  282  git status
+  283  git push
+  284  git pull
+  285  ls
+  286  git push
+  287  ls
+  288  history
+  289  history ravi
+  290  cat ravi
+  291  history >>ravi
+  292  ls
+  293  cat history
+  294  cat ravi
+  295  exit
+  296  cd walking/
+  297  git --version
+  298  git status
+  299  git init
+  300  git status
+  301  ls
+  302  cat >>watermelon
+  303  mkdir src dist
+  304  ls
+  305  git status
+  306  ls
+  307  touch src/main.py
+  308  touch dist/pom.xml
+  309  git status
+  310  git status
+  311  git add .
+  312  git status
+  313  git commit -m "this is the java project"
+  314  git status
+  315  git config --global user.name "raju"
+  316  git config --global user.email "raju@gmail.com"
+  317  git status
+  318  git remote add origin https://github.com/raviteja-devopsworld/project2.git
+  319  git branch
+  320  git push -u origin master
+  321  ls
+  322  ls -la
+  323  git branch
+  324  git log --oneline
+  325  git remote --help
+  326  git remote
+  327  git status
+  328  ls
+  329  cat >>fruit
+  330  git status
+  331  git add .
+  332  git status
+  333  git commit -m "second commit"
+  334  git status
+  335  ls
+  336  touch banana
+  337  git status
+  338  git commit -m "third commit"
+  339  git add .
+  340  git status
+  341  ls
+  342  git push
+  343  ls
+  344  touch red
+  345  git status
+  346  git add .
+  347  git status
+  348  git commit -m "forced"
+  349  git status
+  350  git push
+  351  history
+  352  history >>feb22
+  353  cat feb22
+  354  exit
+  355  git status
+  356  ls
+  357  cat >src/main.py
+  358  git status
+  359  git add .
+  360  git commit -m "this for merge conflict"
+  361  git status
+  362  git push
+  363  git pull
+  364  ls
+  365  cd src/
+  366  l
+  367  ls
+  368  statrt .
+  369  start .
+  370  git log --oneline
+  371  cd ..
+  372  ls
+  373  git add .
+  374  git commit -m "fixed"
+  375  git status
+  376  git log --online 
+  377  git log --oneline
+  378  git push
+  379  git branch
+  380  git branch release-A
+  381  git branch
+  382  git checkout release-A
+  383  git branch
+  384  git checkout master
+  385  git branch
+  386  git checkout -b release-B
+  387  git branch
+  388  ls
+  389  git log --oneline
+  390  git push origin release-B
+  391  git branch
+  392  ls
+  393  git checkout relase-A
+  394  git checkout release-A
+  395  ls
+  396  car >red
+  397  car >red
+  398  cat >red
+  399  git status
+  400  git add .
+  401  git commit -m "release-a Y"
+  402  git status
+  403  git checkout release-B
+  404  git branch
+  405  ls
+  406  cat >blue
+  407  git status
+  408  git add .
+  409  git commit -m release-b x"
+  410  git commit -m "release-b x"
+  411  git commit -m "release-b X"
+  412  git status
+  413  git commit -m "release-b X"
+  414  ls
+  415  git status
+  416  git checkout release-A
+  417  git branch
+  418  ls
+  419  git merge release-B
+  420  ls
+  421  git push origin release-A
+  422  history
+  423  history
+  424  history >23feb23
+  425  cat 23feb23
+  426  exit
+  427  git --version
+  428  git status
+  429  git init
+  430  git status
+  431  ls
+  432  mkdir src/main.py dist/pom.xml
+  433  mkdir src\main.py dist\pom.xml
+  434  ls
+  435  rm -r src\main.py distpom.xml
+  436  ls
+  437  mkdir src dist
+  438  ls
+  439  touch src/main.py
+  440  touch dist/pom.xml
+  441  ls
+  442  git status
+  443  git add .
+  444  git status
+  445  git commit -m "this is the python project"
+  446  git status]
+  447  git status
+  448  git config --global user.name "raviteja"
+  449  git config --global user.email "raviteja@gmail.com"
+  450  ls
+  451  [200~git remote add origin https://github.com/raviteja-devopsworld/practice-project.git
+  452  git remote add origin https://github.com/raviteja-devopsworld/practice-project.git
+  453  git branch
+  454  ls
+  455  touch file1 file2
+  456  cat >file1
+  457  cat >file2
+  458  ls
+  459  cat file 1 file2
+  460  cat file1 file2
+  461  cat -n file1 file2
+  462  git branch
+  463  git [200~git remote add origin https://github.com/raviteja-devopsworld/practice-project.git
+  464  git remote add origin https://github.com/raviteja-devopsworld/practice-project.git
+  465  git status
+  466  git add .
+  467  git status
+  468  git commit -m "this is second commit" file1
+  469  git commit -m "this is third commit" file2
+  470  git status
+  471  ls
+  472  git log
+  473  git log --oneline
+  474  git log
+  475  git commit -m "this is fourth commit" dist/pom.xml
+  476  ls
+  477  cd dist/
+  478  ls
+  479  git commit -m "this is fourth commit"
+  480  git status
+  481  git log
+  482  ls
+  483  cd ..
+  484  ls
+  485  git status
+  486  git log
+  487  git add .
+  488  git status
+  489  ls
+  490  git log --oneline
+  491  git branch
+  492  git push -u origin master
+  493  ls
+  494  ls -la
+  495  git branch
+  496  git log --oneline
+  497  history
+  498  history >list
+  499  exit
+  500  ls
+  501  cat list
+  502  clear
+  503  history
+  504  cat list
+  505  git remote --help
+  506  rm -r file2
+  507  ls
+  508  git push
+  509  git status
+  510  git remote
+  511  history
+  512  history >feb23
